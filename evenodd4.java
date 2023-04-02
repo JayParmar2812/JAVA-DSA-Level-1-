@@ -1,9 +1,6 @@
 
 
 public class evenodd4 {
-    /**
-     * @param arg
-     */
     public static void main (String arg[]) {
 
         int x = 11;
